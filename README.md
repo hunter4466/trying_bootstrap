@@ -1,8 +1,6 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![screenshot](./Assets/Images/snapshot.png)
-![screenshot](./Assets/Images/snapshot_2.png)
 
 # trying bootstrap
 
@@ -30,6 +28,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/hunter4466)
+- GitHub: [@githubhandle](https://github.com/eri8-9)
 
 ## 🤝 Contributing
 
